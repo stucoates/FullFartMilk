@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+    background-color: #efe7d0;
+    color: black;
+}
+
+
+h1.header {
+    background-color: #333333;
+    color: white;
+    padding: 1rem;
+    border-radius: 0.25rem;
+}
+
+h2.header {
+    background-color: #444444;
+    color: white;
+    padding: 1rem;
+    border-radius: 0.25rem;
+}
+
+h3.header {
+    background-color: black;
+    color: white;
+}
+
+.warning {
+    color: red;
+    font-size: 400%;
+}
+
+.clear {
+    color: green;
+    font-size: 400%;
+}
+
+.supplier-panel {
+    border-style: solid; 
+    border-width: 1px; 
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: whitesmoke;
+    margin-bottom: 1rem;
+}
+
+.cat-supermarket {
+    background-color: orange;
+    color: black;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    border-radius: 0.25rem;
+}
+
+.cat-producer {
+    background-color: yellow;
+    color: black;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    border-radius: 0.25rem;
+}
+
+.cat-farm {
+    background-color: lightgreen;
+    color: black;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    border-radius: 0.25rem;
+}
+
+.cat-supplier {
+    background-color: lightblue;
+    color: black;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    border-radius: 0.25rem;
+}
+
+.cat-retail {
+    background-color: salmon;
+    color: black;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    border-radius: 0.25rem;
+}
+
+.warn-bovaer {
+    background-color: red;
+    color: white;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    border-radius: 0.25rem;
+}
+
+label {
+    font-weight: bold;
+}
+
