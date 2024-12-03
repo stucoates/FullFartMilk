@@ -95,3 +95,6 @@ label {
     font-weight: bold;
 }
 
+p {
+    overflow-wrap: anywhere;
+}
