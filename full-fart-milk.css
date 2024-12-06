@@ -98,3 +98,15 @@ label {
 p {
     overflow-wrap: anywhere;
 }
+
+.county-jump-link {
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+    border-radius: 0.25rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 0.25rem;
+    display: inline-block;
+}
+
