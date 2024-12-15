@@ -88,6 +88,14 @@ h3.header {
     border-radius: 0.25rem;
 }
 
+.cat-coffee-shop {
+    background-color: brown;
+    color: white;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    border-radius: 0.25rem;
+}
+
 .warn-bovaer {
     background-color: red;
     color: white;
